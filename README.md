@@ -47,5 +47,6 @@ Un premier modèle a été entrâiné from scratch sur DermMNIST. Ce modèle a d
 ### Prédiction de l'adoption de la fibre optique au Togo | Zindi
 
 En analysant des données tabulaires contenant des informations sociodémographiques et géographiques, nous avons proposé une solution d'apprentissage automatique pour prédire l'adoption de la fibre optique à domicile (FTTH) dans divers segments au Togo. Les modèles, à la fois précis et généralisables, créés dans le cadre de ce projet du Ministère de l'Économie Numérique et de la Transformation Digitale, au Togo, aideront le gouvernement à améliorer la connectivité, à allouer les ressources de manière efficace et à favoriser l'inclusion numérique. 
+
 Le concours s'est déroulé sur Zindi. Après avoir examiné les solutions gagnantes, la méthode que j'ai proposée a obtenu le meilleur score privé, ce qui lui a valu la première place.
 
