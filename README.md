@@ -17,13 +17,16 @@
 
 ## Experiences professionnelles
 **Ingénieur Computer Vision @ LVMH RECHERCHE | Imagerie 3D LC-OCT (_03/2023 - à ce jour_)**
+
 - Développement d'outils d'analyses d'images 3D LC-OCT permettant l'étude des variations des microstructures de la peau liées au vieillissement sur le visage.
 - Analyses statistiques des métriques extraites des images.  
 - Participation aux acquisitions d'images à partir de l'appareil LC-OCT
+  
 **Stagiaire Data Scientist @ CNRS Orléans | Chimiométrie - Spectroscopie Raman - Imagerie hyperspectrale (_05/2021 - 08/2023_)**
 - Mise à disposition d'un script Python permettant le traitemment de données spectroscopiques : Raman, Infrarouge...
 - Comparaison des méthodes (Baseline substraction, Cosmic Ray removal, Normalization, k-means, curve fitting) programées sous Python avec un logiciel de traitement existant.
 - Proposition d'autres méthodes (NMF, Auto-encoder).
+  
 **Enseignant de Mathématiques @ Lycée Eureka**
 - Initier les élèves à l'étude de fonctions, dénombrement, statistiques, nombre complexes.
 - Motiver les élèes; gérer bien la classe à l'apprentissage.
