@@ -13,7 +13,7 @@
 - **Doctorat, Computer vision** | Polytech Orléans - LVMH Recherche, France (_02/04/2024 - à ce jour_)						       		
 - **Master Mathématiques Appliquées Statistique et Data Science, Ingénierie Mathématiques**	| Univeristé d'Orléans, France (_2021 - 2023_)	 			        		
 - **Master 1 Mathématiques** | Université de Tours, France (_2020 - 2021_)
-- **Licence Fondamentale en Mathématiques** | Université de Lomé, Togo (_2020 - 2021_)
+- **Licence Fondamentale en Mathématiques** | Université de Lomé, Togo (_2015 - 2018_)
 
 ## Experiences professionnelles
 **Ingénieur Computer Vision @ LVMH RECHERCHE | Imagerie 3D LC-OCT (_03/2023 - à ce jour_)**
@@ -27,7 +27,7 @@
 - Comparaison des méthodes (Baseline substraction, Cosmic Ray removal, Normalization, k-means, curve fitting) programées sous Python avec un logiciel de traitement existant.
 - Proposition d'autres méthodes (NMF, Auto-encoder).
   
-**Enseignant de Mathématiques @ Lycée Eureka**
+**Enseignant de Mathématiques @ Lycée Eureka (_2018 - 2020_)**
 - Initier les élèves à l'étude de fonctions, dénombrement, statistiques, nombre complexes.
 - Motiver les élèes; gérer bien la classe à l'apprentissage.
 - Gérer les conflits entre les élèves. 
