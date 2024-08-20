@@ -45,11 +45,7 @@ Un premier modèle a été entrâiné from scratch sur DermMNIST. Ce modèle a d
 
 ## Compétitions
 ### Prédiction de l'adoption de la fibre optique au Togo | Zindi
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
+En analysant des données tabulaires contenant des informations sociodémographiques et géographiques, nous avons proposé une solution d'apprentissage automatique pour prédire l'adoption de la fibre optique à domicile (FTTH) dans divers segments au Togo. Les modèles, à la fois précis et généralisables, créés dans le cadre de ce projet du Ministère de l'Économie Numérique et de la Transformation Digitale, au Togo, aideront le gouvernement à améliorer la connectivité, à allouer les ressources de manière efficace et à favoriser l'inclusion numérique. 
+Le concours s'est déroulé sur Zindi. Après avoir examiné les solutions gagnantes, la méthode que j'ai proposée a obtenu le meilleur score privé, ce qui lui a valu la première place.
 
