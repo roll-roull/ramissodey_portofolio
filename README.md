@@ -13,7 +13,7 @@
 - **Doctorat, Computer vision** | Polytech Orléans - LVMH Recherche, France (_02/04/2024 - à ce jour_)						       		
 - **Master Mathématiques Appliquées Statistique et Data Science, Ingénierie Mathématiques**	| Univeristé d'Orléans, France (_2021 - 2023_)	 			        		
 - **Master 1 Mathématiques** | Université de Tours, France (_2020 - 2021_)
-- - **Licence Fondamentale en Mathématiques** | Université de Lomé, Togo (_2020 - 2021_)
+- **Licence Fondamentale en Mathématiques** | Université de Lomé, Togo (_2020 - 2021_)
 
 ## Experiences professionnelles
 **Ingénieur Computer Vision @ LVMH RECHERCHE | Imagerie 3D LC-OCT (_03/2023 - à ce jour_)**
