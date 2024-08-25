@@ -1,6 +1,6 @@
 # Chercheur en formation | Vision par Ordinateur
 
-## Competences informatique
+## Compétences informatiques
 - **Python** :             _Numpy, Pandas, Tensorflow, Pytorch, Scikit-learn, Skimage, Scipy, Napari, Pydicom, Cucim, Cupy._
 - **R** :                  _Analyse et tests statistique, Shiny, Markdown, RHadoop, MapReduce._
 - **Scilab** :             _Modelisation et calcul scientifique_.
@@ -40,13 +40,14 @@ Cependant ces méthodes ne rendent pas meilleur le démosaïquage.
 Les méthodes les plus performantes reposeraient sur des réseaux de neurones mais ne sont pas implémentées dans le cadre de ce projet.
 
 ### DermMNIST Classification
-Ce projet consistait à classifier (de manière supervisée) sous **Pytorch***, des images de la base de données **DermMNIST** échantillonée de la manière suivante : l'ensemble d'entrainement contient 7007 images, l'ensemble de validation 1003, et celui de test 2005 images. DermMNIST renferme au total 7 classes d'images et avec les classes qui sont déséquilibrées. 
+Ce projet consistait à classifier (de manière supervisée) sous **Pytorch**, des images de la base de données **DermMNIST** échantillonée de la manière suivante : l'ensemble d'entrainement contient 7007 images, l'ensemble de validation 1003, et celui de test 2005 images. DermMNIST renferme au total 7 classes d'images et avec les classes qui sont déséquilibrées. 
 Un premier modèle a été entrâiné from scratch sur DermMNIST. Ce modèle a du mal à prédire les images des classes minoritaires. L'ajout de la **la Batch Normalization** au premier modèle permet d'obtenir un gain de 0.02 sur la précision mais a toujours du mal à prédire les images des classes minoritaires. Grâce à une augmentation (UpSampling) des images, des prédictions ont été également obtenues dans ces classes de petite taille. 
 
 ## Compétitions
-### Prédiction de l'adoption de la fibre optique au Togo | Zindi
+### Prédiction de l'adoption de la fibre optique au Togo | Zindi (_2024_)
+[https://zindi.africa/competitions/togo-fiber-optics-uptake-prediction-challenge/leaderboard](url)
 
-En analysant des données tabulaires contenant des informations sociodémographiques et géographiques, nous avons proposé une solution d'apprentissage automatique pour prédire l'adoption de la fibre optique à domicile (FTTH) dans divers segments au Togo. Les modèles, à la fois précis et généralisables, créés dans le cadre de ce projet du Ministère de l'Économie Numérique et de la Transformation Digitale, au Togo, aideront le gouvernement à améliorer la connectivité, à allouer les ressources de manière efficace et à favoriser l'inclusion numérique. 
+En analysant des données tabulaires contenant des informations sociodémographiques et géographiques, nous avions proposé une solution d'apprentissage automatique pour prédire l'adoption de la fibre optique à domicile (FTTH) dans divers segments au Togo. Les modèles, à la fois précis et généralisables, créés dans le cadre de ce projet du Ministère de l'Économie Numérique et de la Transformation Digitale, au Togo, aideront le gouvernement à améliorer la connectivité, à allouer les ressources de manière efficace et à favoriser l'inclusion numérique. 
 
 Le concours s'est déroulé sur Zindi. Après avoir examiné les solutions gagnantes, la méthode que j'ai proposée a obtenu le meilleur score privé, ce qui lui a valu la première place.
 
